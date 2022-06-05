@@ -8,3 +8,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdevxd&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 # 📚 My Repos
 - [Discord Sunucu Patlatma Altyapısı](https://github.com/ghostdevxd/discord-sunucu-patlatma-altyapısı)
+- [Aoi.JS Template](https://github.com/ghostdevxd/aoijs-template)
