@@ -9,4 +9,4 @@
 # 📚 My Repos
 - [Discord Sunucu Patlatma Altyapısı](https://github.com/ghostdevxd/discord-sunucu-patlatma-altyapısı)
 - [Aoi.JS Template](https://github.com/ghostdevxd/aoijs-template)
-- [Aoi.JS V4 DBD.Express](https://github.com/ghostdevxd/aoijs-v4-dashboard)
+- [Aoi.JS Dashboard](https://github.com/ghostdevxd/aoijs-dashboard)
