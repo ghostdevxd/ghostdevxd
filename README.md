@@ -7,6 +7,6 @@
 <a href="https://github.com/ghostdevxd"><img src="https://github-readme-stats.vercel.app/api?username=ghostdevxd&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostdevxd&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
 # 📚 My Repos
-- [Discord Sunucu Patlatma Altyapısı](https://github.com/ghostdevxd/discord-sunucu-patlatma-altyapısı)
+- [Discord Sunucu Patlatma Altyapısı](https://github.com/ghostdevxd/discord-sunucu-patlatma)
 - [Aoi.JS Template](https://github.com/ghostdevxd/aoijs-template)
 - [Aoi.JS Dashboard](https://github.com/ghostdevxd/aoijs-dashboard)
